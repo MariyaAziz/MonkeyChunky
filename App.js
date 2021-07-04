@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FAE7E3',
   },
   button: {
-    width: 80,
+    width: 40,
     height: 50,
     backgroundColor: 'teal',
     alignContent: 'center',
